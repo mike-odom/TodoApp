@@ -4,6 +4,6 @@ function printMaps() {
 
 function outputList() {
     for (var i = 0; i < 10; i++) {
-        console.log("Item: " + i);
+        console.log("Map Item: " + i);
     }
 }

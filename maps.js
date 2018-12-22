@@ -1,9 +1,11 @@
 function printMaps() {
     console.log("Maps information here");
+    var i = 5;
 }
 
 function outputList() {
-    for (var i = 0; i < 10; i++) {
-        console.log("Item: " + i);
+    for (var index = 0; index < 10; index++) {
+        console.log("Item: " + index);
+        console.log("I'm adding some stuff");
     }
 }
